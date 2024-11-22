@@ -8,8 +8,8 @@ const ethiopianRegions = [
   { code: "GAM", label: "Gambela" },
   { code: "SID", label: "Sidama" },
   {
-    code: "SNN",
-    label: "Southern Nations, Nationalities, and Peoples' Region (SNNPR)",
+    code: "CNE",
+    label: "Centeral Ethiopia",
   },
   { code: "SWE", label: "South West Ethiopia Peoples' Region" },
   { code: "STE", label: "South Ethiopia" },
@@ -17,4 +17,5 @@ const ethiopianRegions = [
   { code: "ADD", label: "Addis Ababa (Chartered City)" },
   { code: "DIR", label: "Dire Dawa (Chartered City)" },
 ];
+
 module.exports = ethiopianRegions;
