@@ -20,8 +20,8 @@ This is a simple Node.js and Express-based API for serving flag images of Ethiop
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/ethiopian-flags-api.git
-   cd ethiopian-flags-api
+   git clone https://github.com/Shakir-ahmed1/Ethiopia_Regional_Flags.git
+   cd Ethiopia_Regional_Flags
    ```
 
 2. Install dependencies:
